@@ -1,0 +1,40 @@
+﻿.rulesTrue {
+	color: green;
+}
+
+.rulesFalse {
+	color: red;
+}
+
+.about {
+	font-size: 145%;
+	font-family: Times, Courier, Arial;
+}
+
+.greenMessage {
+	color: green;
+}
+
+.redMessage {
+	color: red;
+}
+.mod-row{
+	display: flex;
+	flex-wrap: wrap;
+}
+.role-user{
+	color:limegreen;
+}
+.role-moder{
+	color: fuchsia;
+}
+.role-admin{
+	color: crimson;	
+}
+.message-new{
+	 font-weight: bold;	
+	 background-color: lightblue;
+}
+.message-basic{	
+	 background-color: azure;
+}
